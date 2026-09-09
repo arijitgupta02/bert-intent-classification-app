@@ -1,0 +1,5 @@
+{
+  "tfidf_avg_latency_ms": 0.4800081253051758,
+  "bert_avg_latency_ms": 62.17697858810425,
+  "bert_slower_by_factor": 129.53317935727412
+}
